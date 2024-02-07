@@ -18,6 +18,11 @@ footer {
   margin: 20px auto;
 }
 
+.contactLink {
+  text-decoration: none;
+  color: #ebb368;
+}
+
 .link {
   margin: 0 10px;
   color: #d28540;
